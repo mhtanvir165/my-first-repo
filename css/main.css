@@ -1,10 +1,16 @@
 .unic {
+   
     color: red;
-    margin-top: 10px;
+    margin-top: 50px;
     margin-bottom: 100px;
+    
 }
+  
 .common {
     color: green;
+    margin-top: 50px;
+    margin-bottom: 100px;
+    
 }
 
 .power{
@@ -15,3 +21,4 @@
     height: 400px;
     width: 600px;
 }
+
