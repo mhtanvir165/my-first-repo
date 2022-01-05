@@ -1,72 +1,40 @@
 body{
     font-family: 'Poppins', sans-serif;
-}
-
-#classic-taxt{
-    
-    font-family: 'Luxurious Roman', cursive;
-    
-}
-.h-blue{
-    font-size: 40px;
-    color: darkblue;
-}
-.h-gold{
-    font-size: 50px;
-    color: gold;
-}
-
-.link-button{
-    text-decoration: none;
-    padding: 5px 40px;
-    background-color: red;
-    color: white;
-    
-    
-    margin-left: 40%;
-
-    
-
+    margin: 0;
 
 }
-
+.brown-color{
+    
+    color: rgb(236, 163, 67);
+}
 section{
     display: flex;
 }
 .half-width{
-    margin: 5%;
     width: 50%;
+    padding: 5%;
 }
 .half-width img{
-   width: 800px;
-   height: 600px;
-   margin: 0%;
-
-   
-   
-   
-
+    width: 60%;
 }
-.text-box-ca{
-    box-shadow: 10px 10px 40px blue;
-    padding-left: 2%;
-    padding-right: 2%;
+
+h1{
+    font-size: 70px;
 }
-.img-box-ca{
-    box-shadow: 10px 10px 40px blue;
-    margin: 5%;
-    padding: 15px;
+h2{
+    font-size: 50px;
+    text-align: center;
+}
+p{
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+.button-explore{
+    font-size: 20px;
+    text-decoration: none;
+    padding: 20px 50px;
+    background-color: rgb(233, 89, 64);
+    color: white;
+    border-radius: 5px;
     
-    
-
-}
-
-.text-box-dr{
-    box-shadow: 10px 10px 40px gold;
-    padding-left: 2%;
-    padding-right: 2%;
-}
-.img-box-dr{
-    box-shadow: 10px 10px 40px gold;
-    margin: 5%;
 }
