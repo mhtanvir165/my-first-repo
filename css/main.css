@@ -1,24 +1,20 @@
-.unic {
-   
+body{
+    font-family: 'Poppins', sans-serif;
+
+}
+h1{
+    font-size: 50px;
+}
+
+.c-a{
+
+    display: flex;
+}
+
+.redcolor{
     color: red;
-    margin-top: 50px;
-    margin-bottom: 100px;
-    
-}
-  
-.common {
-    color: green;
-    margin-top: 50px;
-    margin-bottom: 100px;
-    
 }
 
-.power{
-    height: 400px;
-    width: 600px;
+.purplecolor{
+    color: rebeccapurple;
 }
-.nuture{
-    height: 400px;
-    width: 600px;
-}
-
