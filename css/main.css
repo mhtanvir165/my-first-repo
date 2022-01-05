@@ -8,12 +8,26 @@ body{
     
 }
 .h-blue{
-    font-size: 50px;
+    font-size: 40px;
     color: darkblue;
 }
 .h-gold{
     font-size: 50px;
     color: gold;
+}
+
+.link-button{
+    text-decoration: none;
+    padding: 5px 40px;
+    background-color: red;
+    color: white;
+    
+    
+    margin-left: 40%;
+
+    
+
+
 }
 
 section{
@@ -24,8 +38,14 @@ section{
     width: 50%;
 }
 .half-width img{
-    width: 800px;
-    height: 500px;
+   width: 800px;
+   height: 600px;
+   margin: 0%;
+
+   
+   
+   
+
 }
 .text-box-ca{
     box-shadow: 10px 10px 40px blue;
@@ -35,6 +55,10 @@ section{
 .img-box-ca{
     box-shadow: 10px 10px 40px blue;
     margin: 5%;
+    padding: 15px;
+    
+    
+
 }
 
 .text-box-dr{
