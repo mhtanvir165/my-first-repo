@@ -1,20 +1,48 @@
 body{
     font-family: 'Poppins', sans-serif;
-
 }
-h1{
+
+#classic-taxt{
+    
+    font-family: 'Luxurious Roman', cursive;
+    
+}
+.h-blue{
     font-size: 50px;
+    color: darkblue;
+}
+.h-gold{
+    font-size: 50px;
+    color: gold;
 }
 
-.c-a{
-
+section{
     display: flex;
 }
-
-.redcolor{
-    color: red;
+.half-width{
+    margin: 5%;
+    width: 50%;
+}
+.half-width img{
+    width: 800px;
+    height: 500px;
+}
+.text-box-ca{
+    box-shadow: 10px 10px 40px blue;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+.img-box-ca{
+    box-shadow: 10px 10px 40px blue;
+    margin: 5%;
 }
 
-.purplecolor{
-    color: rebeccapurple;
+.text-box-dr{
+    box-shadow: 10px 10px 40px gold;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+.img-box-dr{
+    box-shadow: 10px 10px 40px gold;
+    margin: 5%;
 }
