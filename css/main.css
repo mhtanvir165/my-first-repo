@@ -51,6 +51,10 @@ h2{
 .pera1{
     margin-top: 5%;
     margin-bottom: 5%;
+    
+}
+p{
+    text-align: justify;
 }
 
 .third-width{
@@ -109,5 +113,5 @@ h3{
     color: red;
 }
 .tanvir{
-    background-image: url(images/shape-1.png);
+    background-image: url(shape/shape-1.png);
 }
