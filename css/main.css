@@ -55,9 +55,37 @@ h2{
 
 .third-width{
     display: flex;
+    
+  margin-left: 2%;
+  margin-right: 2%;
+ 
 }
 .third-width img{
+    width: 50%;
+}
+.box-item-m{
     width: 30%;
+    box-shadow: 10px 10px 10px none;
+    margin: 2%;
+    padding: 2%;
+    background-color: rgb(219, 246, 253);
+    border-radius: 5%;
+}
+.box-item-v{
+    width: 30%;
+    box-shadow: 10px 10px 10px none;
+    margin: 2%;
+    padding: 2%;
+    background-color: rgb(255, 236, 239);
+    border-radius: 5%;
+}
+.box-item-g{
+    width: 30%;
+    box-shadow: 10px 10px 10px none;
+    margin: 2%;
+    padding: 2%;
+    background-color: rgb(255, 228, 217);
+    border-radius: 5%;
 }
 
 
