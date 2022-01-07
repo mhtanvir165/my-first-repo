@@ -22,13 +22,11 @@ h1{
     font-size: 80px;
     font-family: 'Playfair Display', serif;
     padding-left: 20px;
-    border-left:5px solid red;
-    
+    border-left: 5px solid rgb(233, 89, 64);
+    border-radius: 3px;
+   
 }
-.border{
-    
-  
-}
+
 
 h2{
     text-align: center;
